@@ -1,3 +1,4 @@
+![Custom badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fisso-719%2Fisso-719%2Fmain%2Fdocs%2Flife-is-tech.json)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=isso-719)](https://github.com/ryo-ma/github-profile-trophy)
 
