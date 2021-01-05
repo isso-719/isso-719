@@ -6,4 +6,4 @@
 
 ![Custom badge](https://img.shields.io/endpoint?color=success&url=https%3A%2F%2Fraw.githubusercontent.com%2Fisso-719%2Fisso-719%2Fmain%2Fdocs%2Flife-is-tech%2Fmentor.json)
 
-https://raw.githubusercontent.com/isso-719/isso-719/main/docs/life-is-tech/webservice.json
+![Custom badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fisso-719%2Fisso-719%2Fmain%2Fdocs%2Flife-is-tech%2Fwebservice.json)
