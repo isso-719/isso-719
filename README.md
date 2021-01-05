@@ -4,5 +4,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isso-719&layout=compact&hide=HTML,CSS,MAKEFILE,shell&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
-![Custom badge](https://img.shields.io/endpoint?color=success&url=https%3A%2F%2Fraw.githubusercontent.com%2Fisso-719%2Fisso-719%2Fmain%2Fdocs%2Flife-is-tech%2Fmentor.json)
+![Custom badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fisso-719%2Fisso-719%2Fmain%2Fdocs%2Flife-is-tech%2Fmentor.json)
 ![Custom badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fisso-719%2Fisso-719%2Fmain%2Fdocs%2Flife-is-tech%2Fwebservice.json)
