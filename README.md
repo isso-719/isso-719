@@ -5,3 +5,5 @@
 
 ![Custom badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fisso-719%2Flit_badge%2Fmain%2Fjson%2Fmentor.json)
 ![Custom badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fisso-719%2Flit_badge%2Fmain%2Fjson%2Fweb_service.json)
+
+![DimpledChubbyLamprey-smallのコピー](https://user-images.githubusercontent.com/39211268/107172835-b2af1280-6a09-11eb-8421-8bd6fbd358d8.gif)
