@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isso-719&layout=compact&hide=HTML,CSS,MAKEFILE,shell&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
-- これ非公開レポジトリ反映されないんやね。**Ruby が一番多いよ。**
+👆 これ非公開レポジトリ反映されないんやね。**Ruby が一番多いよ。**
 
 <a href="https://profile.codersrank.io/user/isso-719/"><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=isso-719" width="500"></a>
 
