@@ -1,7 +1,11 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=isso-719)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=isso-719&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isso-719&layout=compact&hide=HTML,CSS,MAKEFILE,shell&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+
+- これ非公開レポジトリ反映されないんやね。**Ruby が一番多いよ。**
 
 <a href="https://profile.codersrank.io/user/isso-719/"><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=isso-719" width="500"></a>
 
