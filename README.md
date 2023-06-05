@@ -3,7 +3,7 @@
 [![Anurag's github stats](https://github-status.isso.cc/api?username=isso-719&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-status.isso.cc/api/top-langs/?username=isso-719&layout=compact&hide=HTML,CSS,MAKEFILE,shell&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-status.isso.cc/api/top-langs/?username=isso-719&layout=compact&hide=HTML,CSS,MAKEFILE,shell,Jupyter Notebook&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://profile.codersrank.io/user/isso-719/"><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=isso-719" width="500"></a>
 
